@@ -1,4 +1,5 @@
-＃　Serigano Job Center 
+
+# Serigano Job Center
 
 MERN (MongoDB & Express & React-Redux & Node.js) stack app that lets you manage and organize job interview process.
 
